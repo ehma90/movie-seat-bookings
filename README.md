@@ -20,7 +20,7 @@
 
 ## Github Page
 
-Here is a link to my [github page](https://ehma90.github.io/form-validation/) 
+Here is a link to the [github page](https://ehma90.github.io/movie-seat-bookings/) 
 
 ## Show your support
 
