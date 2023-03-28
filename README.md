@@ -25,13 +25,3 @@ Here is a link to the [github page](https://ehma90.github.io/movie-seat-bookings
 ## Show your support
 
 Give a ⭐ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
